@@ -58,7 +58,8 @@ P.S Рассцветка проекта нормальная, но из-за т�
  
  ![image](https://user-images.githubusercontent.com/94895241/171919137-82e566b2-8009-49e9-99aa-d276ab0eb12f.png)
 
-![image](https://user-images.githubusercontent.com/94895241/171919222-ef2ab67f-1f28-48e9-acd7-bfab3505df85.png)
+![image](https://user-images.githubusercontent.com/94895241/171919579-df67f3a4-1dac-417d-acb7-cffbae8bf6a8.png)
+
 
 
 
