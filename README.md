@@ -47,21 +47,24 @@ P.S Рассцветка проекта нормальная, но из-за т�
 
 ![image](https://user-images.githubusercontent.com/94895241/171838787-cebf7e7d-2c42-4e0a-9c98-8d2a84d6fc03.png)
 
+![image](https://user-images.githubusercontent.com/94895241/171919182-cdb53181-9bfc-4462-bc12-848d0fde03e0.png)
+
+
 <h2>Сделка и ёё добавление</h2>
 
-![image](https://user-images.githubusercontent.com/94895241/171838890-ce5406a7-823a-4c11-a4e8-873e1424c90b.png)
 
+![image](https://user-images.githubusercontent.com/94895241/171919059-7f6d6037-528c-4b0a-820e-e876f660ab7d.png)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/94895241/171919137-82e566b2-8009-49e9-99aa-d276ab0eb12f.png)
 
-![image](https://user-images.githubusercontent.com/94895241/171838945-4c58dccc-c951-4bdb-a528-20fc1ad795cf.png)
+![image](https://user-images.githubusercontent.com/94895241/171919222-ef2ab67f-1f28-48e9-acd7-bfab3505df85.png)
 
-![image](https://user-images.githubusercontent.com/94895241/171839140-e593a671-fd90-4d2f-8196-70d88f83fbaa.png)
-
-![image](https://user-images.githubusercontent.com/94895241/171839159-016193b3-0e26-48c2-b9c9-67270d452ead.png)
 
 
 <h2>Список объектов (автоматически добавляется объект,после сделки</h2>
 
-![image](https://user-images.githubusercontent.com/94895241/171839192-406374e0-a227-483d-994a-17cc63c53867.png)
+![Uploading image.png…]()
 
 
 
